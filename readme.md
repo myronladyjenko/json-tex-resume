@@ -26,7 +26,7 @@ The resume sections are defined in the [sections.json](./config/sections.json) f
                 "rawText": "You can really just type anything you want here! how crazy is that???",
                 "resumeItems": [
                     "Did this and that",
-                    "Achieved this and that"
+                    "Achieved this and that %"
                 ]
             },
             ...
