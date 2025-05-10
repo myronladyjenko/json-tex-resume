@@ -1,96 +1,164 @@
 [
     {
-        "sectionName": "Professional Summary",
+        "sectionName": "\\textbf{\\textcolor{customgreen}{Professional Summary}}",
         "subheadings": [
             {
-                "rawText": "Professional with a passion for technology and innovation. Experienced in building scalable cloud solutions, developing embedded systems, and optimizing machine learning algorithms. Strong problem-solving and communication skills with a proven track record of delivering high-impact projects. Looking to leverage my expertise in cloud architecture and data engineering to drive business growth and innovation."
+                "rawText": "Proficient software engineer with \\textbf{2+} years of experience across all stages of the development lifecycle \\newline Demonstrated technical and collaborative skills through \\textbf{5+} coding competitions, \\textbf{4} hackathons, and \\textbf{10+} self-driven projects \\newline Adaptable and self-driven with a proven ability to quickly master new technologies and \\textbf{build scalable systems}"
             }
         ]
     },
     {
-        "sectionName": "Experience",
+        "sectionName": "\\textbf{\\textcolor{customgreen}{Experience}}",
         "subheadings": [
             {
-                "company": "Amazon Web Services (AWS)",
-                "period": "June 2022 - September 2023",
-                "position": "Cloud Solutions Engineer",
-                "location": "Seattle, WA",
+                "company": "Oracle NetSuite",
+                "period": "May 2025 - Present",
+                "position": "Software Engineering Intern",
+                "location": "Kitchener, ON",
                 "resumeItems": [
-                    "Led the design and implementation of a high-performance serverless architecture for multi-region deployment, reducing latency by \\textbf{30%} and improving user engagement by \\textbf{25%}.",
-                    "Enhanced security compliance by automating access policies and deploying infrastructure monitoring with AWS CloudTrail and GuardDuty, resulting in a \\textbf{70%} reduction in security incident response time.",
-                    "Built a customer analytics dashboard using Amazon QuickSight and Redshift, enabling real-time insights that improved customer satisfaction scores by \\textbf{15%}."
+                    "Todo",
+                    "Todo",
+                    "Todo"
                 ]
             },
             {
-                "company": "Tesla",
-                "period": "September 2021 - May 2022",
-                "position": "Embedded Systems Developer",
-                "location": "Palo Alto, CA",
+                "company": "SAP",
+                "period": "Jan 2025 - Apr 2025",
+                "position": "Cloud Infrastructure Developer Intern",
+                "location": "Waterloo, ON"
+            },
+            {
+                "company": "University of Guelph",
+                "period": "Sep 2024 - Dec 2024",
+                "position": "Undergraduate Research Assistant",
+                "location": "Guelph, ON",
                 "resumeItems": [
-                    "Developed and optimized firmware for in-vehicle infotainment systems, improving media response time by \\textbf{40%} and minimizing system crashes.",
-                    "Designed and tested secure Over-the-Air (OTA) update functionality, increasing update reliability by \\textbf{85%} and reducing downtime during software patches."
+                    "Developed a heuristic in C++ to optimize FPGA routing by reducing A* algorithm runtime by \\textbf{20%}"
                 ]
             },
             {
-                "company": "Spotify",
-                "period": "January 2021 - August 2021",
-                "position": "Software Engineer, Machine Learning",
-                "location": "New York, NY",
-                "resumeItems": [
-                    "Engineered a recommendation system using collaborative filtering and neural networks, increasing monthly user retention by \\textbf{20%}.",
-                    "Implemented A/B testing frameworks that enabled rapid experimentation across recommendation models, reducing testing time by \\textbf{50%}."
+                "company": "NCR Voyix",
+                "period": "Jan 2024 - Aug 2024",
+                "position": "Software Engineering Intern",
+                "location": "Waterloo, ON",
+                 "resumeItems": [
+                    "Secured \\textbf{70%} market share with \\textbf{600+} financial institution branches and \\textbf{13000} ITMs globally by delivering essential reporting capabilities for terminal activity and balances",
+                    "Designed and deployed high-performance containerized Spring Boot microservices using \\textbf{Java 17} on GCP, architected using the \\textbf{strategy pattern and plugin architecture} to maximize system flexibility and extensibility",
+                    "Adopted multithreaded architecture for backend services to reduce report generation and upload times by \\textbf{40%}",
+                    "Built a Spring Boot JWT authorization service using Spring Security and Kubernetes secrets, securing Google Cloud Storage access and integrating with NGINX for token validation in a report retrieval workflow",
+                    "Enhanced \\textbf{UX} for \\textbf{1000+} bank tellers by enabling dynamic, customizable reporting through parameterized SQL queries"
                 ]
-            }
-        ]
-    },
-    {
-        "sectionName": "Technical Skills",
-        "subheadings": [
+            },    
             {
+                "company": "NCR",
+                "period": "May 2023 - Dec 2023",
+                "position": "Backend Java Developer Intern",
+                "location": "Waterloo, ON",
                 "resumeItems": [
-                    "\\textbf{Languages}: Python, JavaScript, Java, C++, Go, SQL, TypeScript.",
-                    "\\textbf{Frameworks and Libraries}: Django, Flask, React, Node.js, TensorFlow, PyTorch.",
-                    "\\textbf{Tools and Platforms}: AWS, GCP, Docker, Kubernetes, Jenkins, Terraform.",
-                    "\\textbf{Techniques}: Machine Learning, Data Engineering, Cloud Architecture, Distributed Systems, Microservices."
+                    "Delivered software for teller cash recyclers for \\textbf{8+} major financial institutions",
+                    "Optimized bank teller UX by empowering clients to execute pivotal operations like secure money transfers and interbranch cash shipments through real-time data streaming with WebSockets, reducing latency by \\textbf{99.9%}",
+                    "Developed backend transaction services empowering tellers to execute secure cash recycler operations, by implementing Spring Boot REST APIs alongside Node.js transaction flows and data management with Cassandra",
+                    "Automated microservice deployments with Jenkins CI/CD, accelerating releases via Maven builds and Helm charts"
                 ]
-            }
-        ]
-    },
-    {
-        "sectionName": "Projects",
-        "subheadings": [
+            },            
             {
-                "company": "Real-Time Traffic Monitoring System",
-                "period": "October 2022 - February 2023",
-                "techstack": "Python, AWS",
+                "company": "University of Guelph",
+                "period": "Sep 2022 - May 2023",
+                "position": "Lead Teacher Assistant",
+                "location": "Guelph, ON",
                 "resumeItems": [
-                    "Developed a traffic monitoring system using computer vision algorithms in Python, achieving \\textbf{95%} accuracy in vehicle detection.",
-                    "Deployed the system on AWS with Lambda and S3 for scalable image processing, reducing processing costs by \\textbf{40%}."
+                    "Led in-person labs, delivered a \\textbf{400}-person lecture on recursion, and taught C and graph theory concepts"
                 ]
             },
             {
-                "company": "Personal Finance Tracker",
-                "period": "July 2021 - September 2021",
-                "techstack": "React Native, Firestore",
+                "company": "BlackBerry QNX",
+                "period": "May 2022 - Aug 2022",
+                "position": "Software Developer Intern",
+                "location": "Ottawa, ON",
                 "resumeItems": [
-                    "Created a mobile application in React Native for tracking personal finances, with secure data storage using Firebase Authentication and Firestore.",
-                    "Integrated data visualization features to provide users with monthly spending insights, improving financial literacy for over 500 users."
+                    "Decreased unit test runtime by \\textbf{80%} using parallel execution with the fastcov Python utility",
+                    "Implemented comprehensive system-level and regression tests in C, achieving \\textbf{100%} code coverage"
                 ]
             }
         ]
     },
     {
-        "sectionName": "Education",
+        "sectionName": "\\textbf{\\textcolor{customgreen}{Skills}}",
         "subheadings": [
             {
-                "company": "University of California, Berkeley",
-                "period": "September 2017 - May 2021",
-                "position": "Bachelor of Science in Computer Science",
-                "location": "Berkeley, CA",
                 "resumeItems": [
-                    "Graduated with honors, GPA: 3.8/4.0",
-                    "Relevant coursework: Data Structures and Algorithms, Machine Learning, Cloud Computing, Distributed Systems"
+                    "\\textbf{Languages}: Java, Python, SQL, C, C++, TypeScript, Go, Bash",
+                    "\\textbf{Frameworks}: Spring Boot, Flask, Node.js, React, Next.js, Angular, PyTorch",
+                    "\\textbf{Tools}: Docker, Kubernetes, AWS, GCP, Gardener, REST API, Kafka, Redis, PostgreSQL, Cassandra, Grafana",
+                    "\\textbf{Techniques}: SOLID Principles & Design Patterns, Distributed Systems Architecture, Relational Database Design, Kubernetes Operator & Autoscaling (HPA, VPA) Development, Cloud-Native Monitoring",           
+                    "\\textbf{Interests}: Bouldering, Table Tennis, Volleyball, World Geography, Biathlon, Ski Jumping"
                 ]
+            }
+        ]
+    },
+    {
+        "sectionName": "\\textbf{\\textcolor{customgreen}{Projects}}",
+        "subheadings": [
+            {
+                "company": "\\href{https:\/\/devpost.com\/software\/blocbond}{\\faLink\\ BlocBond - Best Google Tech Hack Winner}",
+                "period": "May 2024",
+                "techstack": "Flask, Next.js, GCP, Vercel, Google APIs",
+                "resumeItems": [
+                    "Hosted a social-climbing app with \\textbf{10+ features}, including gym search, route rating and colorblind accessibility"
+                ]
+            },
+            {
+                "company": "\\href{https:\/\/github.com\/Eon-Partnership\/Blockchain_Voting_University_Clubs\/blob\/master\/documents\/Blockchain_based_E_voting_System.pdf}{\\faGithub\\ Eon: University Voting}",
+                "period": "Jan 2024 - Apr 2024",
+                "techstack": "Flask, Javascript, HTML, CSS",
+                "resumeItems": [
+                    "Built a Bitcoin-based blockchain from scratch, integrating \\textbf{5+} cryptographic algorithms to secure university club voting",
+                    "Implemented RSA Blind Signature protocol for confidential elections in a proof-of-concept system for \\textbf{100+} students"
+                ]
+            }
+        ]
+    },
+    {
+        "sectionName": "\\textbf{\\textcolor{customgreen}{Education}}",
+        "subheadings": [
+            {
+                "company": "University of Guelph, GPA: 96%",
+                "period": "September 2021 - Present",
+                "position": "Bachelor of Computing Honours, Software Engineering Coop Major, Business Economics Minor",
+                "location": "Guelph, ON",
+                "resumeItems": [
+                    "Recipient of: D2L Scholarships in Computer Science, CEPS Dean’s Scholarship (x2), Dean's Honour List (x6)"
+                ]
+            }
+        ]
+    },
+    {
+        "sectionName": "\\textbf{\\textcolor{customgreen}{Competitions and Awards}}",
+        "subheadings": [
+            {
+                "company": "Google Developer Student Club Hacks -  Winner of ‘The Best Google Hack’ award",
+                "period": "May 2024",
+                "isCompact": true
+            },
+            {
+                "company": "Guelph LeetCode Competition - 1st Place, 2nd Place",
+                "period": "Feb 2024, 2023",
+                "isCompact": true
+            },
+            {
+                "company": "Hackathon Solution ‘eNCRyptPay - Secured Payment Innovation’, patented by NCR",
+                "period": "Dec 2023",
+                "isCompact": true
+            },
+            {
+                "company": "Runner-up for ‘Co-op Student of the Year’ award at University of Guelph",
+                "period": "Dec 2023",
+                "isCompact": true
+            },
+            {
+                "company": "International Tournament of Young Mathematicians - Silver Medalist",
+                "period": "Jul 2019",
+                "isCompact": true
             }
         ]
     }

@@ -5,21 +5,28 @@
 \ifx\techstack\undefined \def\techstack{} \fi
 \ifx\resumeItems\undefined \def\resumeItems{} \fi
 \ifx\rawText\undefined \def\rawText{} \fi
+\ifx\isCompact\undefined \def\isCompact{} \fi
 
-\ifx\techstack\empty
-  \ifx\company\empty
-    \resumeSubheading
-    {\company}{\period}
-    {\position}{\location}
+\ifx\isCompact\empty
+  \ifx\techstack\empty
+    \ifx\company\empty
+      \resumeSubheading
+      {\company}{\period}
+      {\position}{\location}
+    \else
+      \resumeSubheading
+      {\textbf{\company}}{\period}
+      {\position}{\location}
+    \fi
   \else
     \resumeSubheading
-    {\textbf{\company}}{\period}
+    {\textbf{\company} $|$ \emph\techstack}{\period}
     {\position}{\location}
   \fi
 \else
-  \resumeSubheading
-  {\textbf{\company} $|$ \emph\techstack}{\period}
-  {\position}{\location}
+  \vspace{-2pt}\item
+  % \vspace{2px}  
+  {\small \textbf{\company}} \hfill {\textbf{\period}} \\
 \fi
 
 \ifx\rawText\empty\else
@@ -44,3 +51,4 @@
 \def\techstack{}
 \def\resumeItems{}
 \def\rawText{}
+\def\isCompact{}
