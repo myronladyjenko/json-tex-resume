@@ -3,7 +3,21 @@
         "sectionName": "\\textbf{\\textcolor{customgreen}{Professional Summary}}",
         "subheadings": [
             {
-                "rawText": "Proficient software engineer with \\textbf{2+} years of experience across all stages of the development lifecycle \\newline Demonstrated technical and collaborative skills through \\textbf{5+} coding competitions, \\textbf{4} hackathons, and \\textbf{10+} self-driven projects \\newline Adaptable and self-driven with a proven ability to quickly master new technologies and \\textbf{build scalable systems}"
+                "rawText": "Proficient software engineer with \\textbf{2+} years of experience across all stages of the development lifecycle \\newline Demonstrated technical and collaborative skills through \\textbf{5+} coding competitions, \\textbf{4} hackathons, and \\textbf{10+} self-driven projects \\newline Adaptable and self-driven with a proven ability to quickly master new technologies and build scalable systems"
+            }
+        ]
+    },
+    {
+        "sectionName": "\\textbf{\\textcolor{customgreen}{Skills}}",
+        "subheadings": [
+            {
+                "resumeItems": [
+                    "\\textbf{Languages}: Java, Python, SQL, C, C++, TypeScript, Go, Bash",
+                    "\\textbf{Tools}: Docker, Kubernetes, AWS, GCP, Gardener, REST API, Kafka, Redis, PostgreSQL, Cassandra, Grafana",
+                    "\\textbf{Frameworks}: Spring Boot, Flask, Node.js, React, Next.js, Angular, PyTorch",
+                    "\\textbf{Techniques}: SOLID Principles, Design Patterns, Distributed Systems Architecture, Relational Database Design, Kubernetes Operator & Autoscaling (HPA, VPA) Development, Cloud-Native Monitoring, Agile",           
+                    "\\textbf{Interests}: Bouldering, Table Tennis, Volleyball, World Geography, Biathlon, Ski Jumping"
+                ]
             }
         ]
     },
@@ -16,16 +30,18 @@
                 "position": "Software Engineering Intern",
                 "location": "Kitchener, ON",
                 "resumeItems": [
-                    "Todo",
-                    "Todo",
-                    "Todo"
+                    "Building a pricing feature on NetSuite (Java 21), enabling customers to set promotional pricing over custom date ranges"
                 ]
             },
             {
                 "company": "SAP",
                 "period": "Jan 2025 - Apr 2025",
                 "position": "Cloud Infrastructure Developer Intern",
-                "location": "Waterloo, ON"
+                "location": "Waterloo, ON",
+                "resumeItems": [
+                    "Improved a Kubernetes operator’s performance by introducing multiprocessing in Python, reducing startup time by \\textbf{80%} and deploying globally across production landscapes managed by Gardener",
+                    "Evaluated Vertical Pod Autoscaler (VPA) for \\textbf{optimizing CPU and memory} usage through in-cluster testing under different workloads; presented findings, leading to a decision to defer adoption for SAP HANA Cloud Data Lake services"
+                ]
             },
             {
                 "company": "University of Guelph",
@@ -83,20 +99,6 @@
         ]
     },
     {
-        "sectionName": "\\textbf{\\textcolor{customgreen}{Skills}}",
-        "subheadings": [
-            {
-                "resumeItems": [
-                    "\\textbf{Languages}: Java, Python, SQL, C, C++, TypeScript, Go, Bash",
-                    "\\textbf{Frameworks}: Spring Boot, Flask, Node.js, React, Next.js, Angular, PyTorch",
-                    "\\textbf{Tools}: Docker, Kubernetes, AWS, GCP, Gardener, REST API, Kafka, Redis, PostgreSQL, Cassandra, Grafana",
-                    "\\textbf{Techniques}: SOLID Principles & Design Patterns, Distributed Systems Architecture, Relational Database Design, Kubernetes Operator & Autoscaling (HPA, VPA) Development, Cloud-Native Monitoring",           
-                    "\\textbf{Interests}: Bouldering, Table Tennis, Volleyball, World Geography, Biathlon, Ski Jumping"
-                ]
-            }
-        ]
-    },
-    {
         "sectionName": "\\textbf{\\textcolor{customgreen}{Projects}}",
         "subheadings": [
             {
@@ -122,13 +124,10 @@
         "sectionName": "\\textbf{\\textcolor{customgreen}{Education}}",
         "subheadings": [
             {
-                "company": "University of Guelph, GPA: 96%",
-                "period": "September 2021 - Present",
-                "position": "Bachelor of Computing Honours, Software Engineering Coop Major, Business Economics Minor",
-                "location": "Guelph, ON",
-                "resumeItems": [
-                    "Recipient of: D2L Scholarships in Computer Science, CEPS Dean’s Scholarship (x2), Dean's Honour List (x6)"
-                ]
+                "company": "University of Guelph ",
+                "period": "Sep 2021 - Expected Apr 2026",
+                "position": "Bachelor of Computing, Major Software Engineering Minor Business Economics",
+                "location":  "GPA: 4.0/4.0 (96%)"
             }
         ]
     },
@@ -138,6 +137,11 @@
             {
                 "company": "Google Developer Student Club Hacks -  Winner of ‘The Best Google Hack’ award",
                 "period": "May 2024",
+                "isCompact": true
+            },
+            {
+                "company": "D2L Scholarships in Computer Science - Highest GPA in Software Engineering",
+                "period": "Sep 2024",
                 "isCompact": true
             },
             {

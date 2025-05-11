@@ -6,6 +6,8 @@
 \ifx\resumeItems\undefined \def\resumeItems{} \fi
 \ifx\rawText\undefined \def\rawText{} \fi
 \ifx\isCompact\undefined \def\isCompact{} \fi
+\ifx\gpa\undefined \def\gpa{} \fi
+
 
 \ifx\isCompact\empty
   \ifx\techstack\empty
@@ -24,17 +26,28 @@
     {\position}{\location}
   \fi
 \else
-  \vspace{-2pt}\item
-  % \vspace{2px}  
+  \item
   {\small \textbf{\company}} \hfill {\textbf{\period}} \\
+  \vspace{-0.5pt}
 \fi
 
 \ifx\rawText\empty\else
 \vspace{4px}
 \small{\rawText}
+% \vspace{1pt}
 \fi
 
-\ifx\resumeItems\empty\else
+\ifx\resumeItems\empty
+
+\ifx\rawText\empty
+  \ifx\isCompact\empty
+    \vspace{11pt}
+  \else
+    % do nothing
+  \fi
+\fi
+
+\else
 
 \resumeItemListStart
 \foreach \i in \resumeItems {

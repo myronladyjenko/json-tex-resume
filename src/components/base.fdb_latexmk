@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1745715278 "/Users/myronladyjenko/Desktop/Projests/json-tex-resume/src/components/base.tex" "base.pdf" "base" 1745715279 2
-  "/Users/myronladyjenko/Desktop/Projests/json-tex-resume/src/components/base.tex" 1745715277 2077 16489ee5487d2414cf3d2739541fdbfa ""
+["pdflatex"] 1746979319 "/Users/myronladyjenko/Desktop/Projests/json-tex-resume/src/components/base.tex" "base.pdf" "base" 1746979319 2
+  "/Users/myronladyjenko/Desktop/Projests/json-tex-resume/src/components/base.tex" 1746979318 2081 e77c1e7dcc47e26b0ba7b8c880221ac9 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -92,8 +92,8 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1706247779 7883461 bb24e01fa3ccc9ff83bebb654d22d489 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "base.aux" 1745715279 588 7ee73dc75c880e1f31d02c77eacd03f0 "pdflatex"
-  "base.tex" 1745715277 2077 16489ee5487d2414cf3d2739541fdbfa ""
+  "base.aux" 1746979319 588 7ee73dc75c880e1f31d02c77eacd03f0 "pdflatex"
+  "base.tex" 1746979318 2081 e77c1e7dcc47e26b0ba7b8c880221ac9 ""
   (generated)
   "base.aux"
   "base.log"
