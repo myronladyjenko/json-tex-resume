@@ -3,21 +3,7 @@
         "sectionName": "\\textbf{\\textcolor{customgreen}{Professional Summary}}",
         "subheadings": [
             {
-                "rawText": "Proficient software engineer with \\textbf{2+} years of experience across all stages of the development lifecycle \\newline Demonstrated technical and collaborative skills through \\textbf{5+} coding competitions, \\textbf{4} hackathons, and \\textbf{10+} self-driven projects \\newline Adaptable and self-driven with a proven ability to quickly master new technologies and build scalable systems"
-            }
-        ]
-    },
-    {
-        "sectionName": "\\textbf{\\textcolor{customgreen}{Skills}}",
-        "subheadings": [
-            {
-                "resumeItems": [
-                    "\\textbf{Languages}: Java, Python, SQL, C, C++, TypeScript, Go, Bash",
-                    "\\textbf{Tools}: Docker, Kubernetes, AWS, GCP, Gardener, REST API, Kafka, Redis, PostgreSQL, Cassandra, Grafana",
-                    "\\textbf{Frameworks}: Spring Boot, Flask, Node.js, React, Next.js, Angular, PyTorch",
-                    "\\textbf{Techniques}: SOLID Principles, Design Patterns, Distributed Systems Architecture, Relational Database Design, Kubernetes Operator & Autoscaling (HPA, VPA) Development, Cloud-Native Monitoring, Agile",           
-                    "\\textbf{Interests}: Bouldering, Table Tennis, Volleyball, World Geography, Biathlon, Ski Jumping"
-                ]
+                "rawText": "Proficient software engineer with \\textbf{2+} years of experience across all stages of the development lifecycle \\newline Demonstrated technical and collaborative skills through \\textbf{5+} coding competitions, \\textbf{4} hackathons, and \\textbf{10+} projects \\newline Adaptable and self-driven with a proven ability to quickly master new technologies and build scalable systems"
             }
         ]
     },
@@ -26,13 +12,14 @@
         "subheadings": [
             {
                 "company": "Oracle NetSuite",
-                "period": "May 2025 - Present",
+                "period": "May 2025 - Aug 2025",
                 "position": "Software Engineering Intern",
                 "location": "Kitchener, ON",
                 "resumeItems": [
-                    "Building a pricing feature on NetSuite (Java 21), enabling customers to set promotional pricing over custom date ranges"
+                    "Delivered and showcased critical advanced pricing features for the upcoming \\textbf{November release}, set to empower \\textbf{42,000+} NetSuite customers with flexible rule-based pricing and greater control over promotional strategies",
+                    "Built \\textbf{Java 21} components with \\textbf{PL/SQL} procedures using \\textbf{Dependency Injection} and \\textbf{Liskov Substitution principle} to enable asynchronous price updates, scaling to millions of items and thousands of customer groups"
                 ]
-            },
+             },
             {
                 "company": "SAP",
                 "period": "Jan 2025 - Apr 2025",
@@ -49,7 +36,7 @@
                 "position": "Undergraduate Research Assistant",
                 "location": "Guelph, ON",
                 "resumeItems": [
-                    "Developed a heuristic in C++ to optimize FPGA routing by reducing A* algorithm runtime by \\textbf{20%}"
+                    "Developed heuristic in C++ to enhance A* algorithm efficiency during the FPGA routing stage"
                 ]
             },
             {
@@ -59,7 +46,7 @@
                 "location": "Waterloo, ON",
                  "resumeItems": [
                     "Secured \\textbf{70%} market share with \\textbf{600+} financial institution branches and \\textbf{13000} ITMs globally by delivering essential reporting capabilities for terminal activity and balances",
-                    "Designed and deployed high-performance containerized Spring Boot microservices using \\textbf{Java 17} on GCP, architected using the \\textbf{strategy pattern and plugin architecture} to maximize system flexibility and extensibility",
+                    "Designed and deployed high-performance containerized Spring Boot microservices using \\textbf{Java 17} on GCP, architected using the \\textbf{Strategy pattern} and \\textbf{Plugin Architecture} to maximize system flexibility and extensibility",
                     "Adopted multithreaded architecture for backend services to reduce report generation and upload times by \\textbf{40%}",
                     "Built a Spring Boot JWT authorization service using Spring Security and Kubernetes secrets, securing Google Cloud Storage access and integrating with NGINX for token validation in a report retrieval workflow",
                     "Enhanced \\textbf{UX} for \\textbf{1000+} bank tellers by enabling dynamic, customizable reporting through parameterized SQL queries"
@@ -99,6 +86,20 @@
         ]
     },
     {
+        "sectionName": "\\textbf{\\textcolor{customgreen}{Skills}}",
+        "subheadings": [
+            {
+                "resumeItems": [
+                    "\\textbf{Languages}: Java, Python, SQL, C, C++, TypeScript, Go, Bash",
+                    "\\textbf{Tools}: Docker, Kubernetes, AWS, GCP, Gardener, REST API, Kafka, Redis, PostgreSQL, Cassandra, Oracle DB",
+                    "\\textbf{Frameworks}: Spring Boot, Flask, Node.js, Guice, React, Next.js, Angular, PyTorch",
+                    "\\textbf{Techniques}: SOLID Principles, Design Patterns, Distributed Systems Architecture, Relational Database Design, Kubernetes Operator & Autoscaling (HPA, VPA) Development, Cloud-Native Monitoring, Agile",           
+                    "\\textbf{Interests}: Bouldering, Table Tennis, Volleyball, World Geography, Biathlon, Ski Jumping"
+                ]
+            }
+        ]
+    },
+    {
         "sectionName": "\\textbf{\\textcolor{customgreen}{Projects}}",
         "subheadings": [
             {
@@ -127,13 +128,21 @@
                 "company": "University of Guelph ",
                 "period": "Sep 2021 - Expected Apr 2026",
                 "position": "Bachelor of Computing, Major Software Engineering Minor Business Economics",
-                "location":  "GPA: 4.0/4.0 (96%)"
+                "location":  "GPA: 4.0/4.0 (96%)",
+                "resumeItems": [
+                    "\\textbf{Relevant courses}: Computational Intelligence, Data Structures, Algorithms, Parallel Programming"
+                ]
             }
         ]
     },
     {
         "sectionName": "\\textbf{\\textcolor{customgreen}{Competitions and Awards}}",
         "subheadings": [
+            {
+                "company": "\\href{https:\/\/catalog-education.oracle.com\/ords\/certview\/sharebadge?id=7D7933597420C1E31DB4D9337723408CBB84B3207F0E79125C7DFFF32E5EAD5A}{\\faLink\\ Oracle Certified Professional: Java SE 21 Developer}",
+                "period": "August 2025",
+                "isCompact": true
+            },
             {
                 "company": "Google Developer Student Club Hacks -  Winner of ‘The Best Google Hack’ award",
                 "period": "May 2024",
@@ -150,7 +159,7 @@
                 "isCompact": true
             },
             {
-                "company": "Hackathon Solution ‘eNCRyptPay - Secured Payment Innovation’, patented by NCR",
+                "company": "\\href{https:\/\/patents.google.com\/patent\/US20250217783A1\/en?oq=US-20250217783-A1}{\\faLink\\ Hackathon Solution - Secure Value Transfers, patented by NCR Voyix}",
                 "period": "Dec 2023",
                 "isCompact": true
             },
@@ -160,7 +169,7 @@
                 "isCompact": true
             },
             {
-                "company": "International Tournament of Young Mathematicians - Silver Medalist",
+                "company": "\\href{https:\/\/www.itym.org\/results-2019}{Silver Medalist - International Tournament of Young Mathematicians}",
                 "period": "Jul 2019",
                 "isCompact": true
             }
