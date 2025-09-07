@@ -105,7 +105,7 @@
             {
                 "company": "\\href{https:\/\/github.com\/myronladyjenko\/Climbing-Route-Classification}{\\faGithub\\ Climbing Route Classification}",
                 "period": "Sep 2024 - Nov 2024",
-                "techstack": "PyTorch, YOLOv11, Mask R-CNN, Roboflow, OpenCV",
+                "techstack": "Python, PyTorch, YOLOv11, Mask R-CNN, Roboflow",
                 "resumeItems": [
                     "Set up and trained \\textbf{YOLOv11} and \\textbf{Mask R-CNN (Detectron2)} models on a climbing holds and routes dataset of 4.3k images, annotated and exported using \\textbf{Roboflow}",
                     "Applied \\textbf{K-Means} and \\textbf{DBSCAN clustering} with \\textbf{Gaussian blur} preprocessing for color-based route classification"                ]
