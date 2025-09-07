@@ -103,7 +103,7 @@
         "sectionName": "\\textbf{\\textcolor{customgreen}{Projects}}",
         "subheadings": [
             {
-                "company": "Climbing Route Classification",
+                "company": "\\href{https:\/\/github.com\/myronladyjenko\/Climbing-Route-Classification}{\\faGithub\\ Climbing Route Classification}",
                 "period": "Sep 2024 - Nov 2024",
                 "techstack": "PyTorch, YOLOv11, Mask R-CNN, Roboflow, OpenCV",
                 "resumeItems": [
