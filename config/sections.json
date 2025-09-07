@@ -107,7 +107,7 @@
                 "period": "Sep 2024 - Nov 2024",
                 "techstack": "PyTorch, YOLOv11, Mask R-CNN, Roboflow, OpenCV",
                 "resumeItems": [
-                    "Set up and trained \\textbf{YOLOv11} and \\textbf{Mask R-CNN (Detectron2)} models on a climbing hold dataset of 4.3k labeled images, annotated and exported using \\textbf{Roboflow}",
+                    "Set up and trained \\textbf{YOLOv11} and \\textbf{Mask R-CNN (Detectron2)} models on a climbing holds and routes dataset of 4.3k images, annotated and exported using \\textbf{Roboflow}",
                     "Applied \\textbf{K-Means} and \\textbf{DBSCAN clustering} with \\textbf{Gaussian blur} preprocessing for color-based route classification"                ]
             },
 
