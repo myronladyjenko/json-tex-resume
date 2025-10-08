@@ -70,7 +70,7 @@
                 "position": "Lead Teacher Assistant",
                 "location": "Guelph, ON",
                 "resumeItems": [
-                    "Led in-person labs, delivered a \\textbf{400}-person lecture on recursion, and taught C and graph theory concepts"
+                    "Led in-person labs, delivered a \\textbf{400}-person lecture on recursion, and taught C, Linux and graph theory concepts"
                 ]
             },
             {
@@ -80,7 +80,8 @@
                 "location": "Ottawa, ON",
                 "resumeItems": [
                     "Decreased unit test runtime by \\textbf{80%} using parallel execution with the fastcov Python utility",
-                    "Implemented comprehensive system-level and regression tests in C, achieving \\textbf{100%} code coverage"
+                    "Implemented comprehensive system-level and regression tests in \\textbf{C} for embedded Unix-like QNX platform",
+                    "Achieved \\textbf{100%} code coverage, ensuring reliability and robustness across tested components"
                 ]
             }
         ]
@@ -91,9 +92,9 @@
             {
                 "resumeItems": [
                     "\\textbf{Languages}: Java, Python, SQL, C, C++, TypeScript, Go",
-                    "\\textbf{Tools}: Docker, Kubernetes, GCP, AWS, S3, TLS/SSL, Gardener, REST API, Kafka, Git, Maven, Jenkins, Google Cloud Pub/Sub, Redis, PostgreSQL, Cassandra, Oracle DB",
-                    "\\textbf{Frameworks}: Spring Boot, Flask, Node.js, Guice, Next.js, Angular, PyTorch, YOLOv11, Mask R-CNN, JUnit",
-                    "\\textbf{Techniques}: SOLID Principles, Design Patterns, Distributed Systems Architecture, Relational Database Design, Kubernetes Operator & Autoscaling (HPA, VPA) Development, Cloud-Native Monitoring, Agile",           
+                    "\\textbf{Tools}: Docker, Kubernetes, GCP, AWS, S3, Gardener, REST API, Kafka, Git, Maven, Jenkins, Google Cloud Pub/Sub, Redis, PostgreSQL, Cassandra, Oracle DB",
+                    "\\textbf{Frameworks}: Spring Boot, Hibernate, Flask, Node.js, Guice, Next.js, Angular, PyTorch, YOLOv11, JUnit",
+                    "\\textbf{Techniques}: SOLID Principles, Design Patterns, Distributed and Parallel Systems Architecture, Relational Database Design, Kubernetes Operator & Autoscaling (HPA, VPA) Development, Cloud-Native Monitoring, Agile",           
                     "\\textbf{Interests}: Bouldering, Table Tennis, Volleyball, World Geography, Biathlon, Ski Jumping"
                 ]
             }
@@ -107,8 +108,9 @@
                 "period": "Sep 2024 - Nov 2024",
                 "techstack": "Python, PyTorch, YOLOv11, Mask R-CNN, Roboflow",
                 "resumeItems": [
-                    "Set up and trained \\textbf{YOLOv11} and \\textbf{Mask R-CNN (Detectron2)} models on a climbing holds and routes dataset of 4.3k images, annotated and exported using \\textbf{Roboflow}",
-                    "Applied \\textbf{K-Means} and \\textbf{DBSCAN clustering} with \\textbf{Gaussian blur} preprocessing for color-based route classification"                ]
+                    "Set up and trained machine learning models \\textbf{YOLOv11} and \\textbf{Mask R-CNN} (Detectron2) on a 4.3k image climbing dataset for automated holds and routes detection",
+                    "Applied \\textbf{K-Means} and \\textbf{DBSCAN} clustering with \\textbf{Gaussian blur} preprocessing for color-based route classification"                
+                ]
             },
 
             {
@@ -116,7 +118,7 @@
                 "period": "May 2024",
                 "techstack": "Flask, Next.js, GCP, Vercel, Google APIs",
                 "resumeItems": [
-                    "Hosted a social-climbing app with \\textbf{10+ features}, including gym search, route rating and colorblind accessibility"
+                    "Hosted a full-stack climbing app with \\textbf{10+ features}, including gym search, route rating and colorblind accessibility"
                 ]
             },
             {
@@ -139,7 +141,7 @@
                 "position": "Bachelor of Computing, Major Software Engineering Minor Business Economics",
                 "location":  "GPA: 4.0/4.0 (96%)",
                 "resumeItems": [
-                    "\\textbf{Relevant courses}: Computational Intelligence, Data Structures, Algorithms, Parallel Programming"
+                    "\\textbf{Relevant courses}: Computational Intelligence, Data Structures, Algorithms, Parallel Programming, Linear Algebra"
                 ]
             }
         ]
