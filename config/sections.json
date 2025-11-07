@@ -11,13 +11,23 @@
         "sectionName": "\\textbf{\\textcolor{customgreen}{Experience}}",
         "subheadings": [
             {
+                "company": "University of Guelph",
+                "period": "Sep 2025 - Present",
+                "position": "Teaching Assistant - Object Oriented Programming, Java",
+                "location": "Guelph, ON",
+                "resumeItems": [
+                    "Conducted office hours to help students master \\textbf{OOP} concepts and clarify \\textbf{SOLID} principles"
+                ]
+            },
+            {
                 "company": "Oracle NetSuite",
                 "period": "May 2025 - Aug 2025",
                 "position": "Software Engineering Intern",
                 "location": "Kitchener, ON",
                 "resumeItems": [
-                    "Delivered and showcased critical advanced pricing features for the upcoming \\textbf{November release}, set to empower \\textbf{42,000+} NetSuite customers with flexible rule-based pricing and greater control over promotional strategies",
-                    "Built \\textbf{Java 21} components with \\textbf{PL/SQL} procedures using \\textbf{Dependency Injection} and \\textbf{Liskov Substitution principle} to enable asynchronous price updates, scaling to millions of items and thousands of customer groups"
+                    "Delivered and showcased advanced pricing features to empower \\textbf{42,000+} NetSuite customers with flexible price rules",
+                    "Developed \\textbf{Java 21} services using \\textbf{Dependency Injection} and \\textbf{SOLID} principles to enable rule-based pricing",
+                    "Built \\textbf{PL/SQL} procedures integrated with \\textbf{Oracle DB} to ensure asynchronous price updates across millions of items"
                 ]
              },
             {
@@ -26,7 +36,7 @@
                 "position": "Cloud Infrastructure Developer Intern",
                 "location": "Waterloo, ON",
                 "resumeItems": [
-                    "Improved a Kubernetes operator’s performance by introducing multiprocessing in Python, reducing startup time by \\textbf{80%} and deploying globally across production landscapes managed by Gardener",
+                    "Improved a Kubernetes operator’s performance by introducing multiprocessing in \\textbf{Python}, reducing startup time by \\textbf{80%} and deploying globally across production landscapes managed by Gardener",
                     "Evaluated Vertical Pod Autoscaler (VPA) for \\textbf{optimizing CPU and memory} usage through in-cluster testing under different workloads; presented findings, leading to a decision to defer adoption for SAP HANA Cloud Data Lake services"
                 ]
             },
@@ -36,7 +46,7 @@
                 "position": "Undergraduate Research Assistant",
                 "location": "Guelph, ON",
                 "resumeItems": [
-                    "Developed heuristic in C++ to enhance A* algorithm efficiency during the FPGA routing stage"
+                    "Developed heuristics in \\textbf{C++} to enhance A* algorithm efficiency during the FPGA routing stage"
                 ]
             },
             {
@@ -67,7 +77,7 @@
             {
                 "company": "University of Guelph",
                 "period": "Sep 2022 - May 2023",
-                "position": "Lead Teacher Assistant",
+                "position": "Lead Teaching Assistant",
                 "location": "Guelph, ON",
                 "resumeItems": [
                     "Led in-person labs, delivered a \\textbf{400}-person lecture on recursion, and taught C, Linux and graph theory concepts"
@@ -92,8 +102,8 @@
             {
                 "resumeItems": [
                     "\\textbf{Languages}: Java, Python, SQL, C, C++, TypeScript, Go",
-                    "\\textbf{Tools}: Docker, Kubernetes, GCP, AWS, S3, Gardener, REST API, Kafka, Git, Maven, Jenkins, Google Cloud Pub/Sub, Redis, PostgreSQL, Cassandra, Oracle DB",
-                    "\\textbf{Frameworks}: Spring Boot, Hibernate, Flask, Node.js, Guice, Next.js, Angular, PyTorch, YOLOv11, JUnit",
+                    "\\textbf{Tools}: Docker, Kubernetes, GCP, AWS, Gardener, REST API, Kafka, Git, Maven, Jenkins, Google Cloud Pub/Sub, Redis, PostgreSQL, Cassandra, Oracle DB",
+                    "\\textbf{Frameworks}: Spring Boot, Hibernate, Warp, Flask, Node.js, Guice, Angular, PyTorch, YOLOv11, JUnit",
                     "\\textbf{Techniques}: SOLID Principles, Design Patterns, Distributed and Parallel Systems Architecture, Relational Database Design, Kubernetes Operator & Autoscaling (HPA, VPA) Development, Cloud-Native Monitoring, Agile",           
                     "\\textbf{Interests}: Bouldering, Table Tennis, Volleyball, World Geography, Downhill Skiing, Biathlon"
                 ]
@@ -106,7 +116,7 @@
             {
                 "company": "\\href{https:\/\/github.com\/myronladyjenko\/Climbing-Route-Classification}{\\faGithub\\ Climbing Route Classification}",
                 "period": "Sep 2024 - Nov 2024",
-                "techstack": "Python, PyTorch, YOLOv11, Mask R-CNN, Roboflow",
+                "techstack": "Python, PyTorch, GPU, YOLOv11, Mask R-CNN",
                 "resumeItems": [
                     "Set up and trained machine learning models \\textbf{YOLOv11} and \\textbf{Mask R-CNN} (Detectron2) on a 4.3k image climbing dataset for automated holds and routes detection",
                     "Applied \\textbf{K-Means} and \\textbf{DBSCAN} clustering with \\textbf{Gaussian blur} preprocessing for color-based route classification"                
@@ -138,10 +148,10 @@
             {
                 "company": "University of Guelph ",
                 "period": "Sep 2021 - Expected Apr 2026",
-                "position": "Bachelor of Computing, Major Software Engineering Minor Business Economics",
+                "position": "Bachelor of Computing, Major Computer Science Minor Business Economics",
                 "location":  "GPA: 4.0/4.0 (96%)",
                 "resumeItems": [
-                    "\\textbf{Relevant courses}: Computational Intelligence, Data Structures, Algorithms, Parallel Programming, Linear Algebra"
+                    "\\textbf{Relevant courses}: Data Science, Algorithms, Networks, Parallel Programming, Linear Algebra II, Investments"
                 ]
             }
         ]
@@ -150,12 +160,17 @@
         "sectionName": "\\textbf{\\textcolor{customgreen}{Competitions and Awards}}",
         "subheadings": [
             {
+                "company": "Dr. Mary McLeish Scholarship - Highest GPA across first 6 semesters (CS)",
+                "period": "Oct 2025",
+                "isCompact": true
+            },
+            {
                 "company": "\\href{https:\/\/catalog-education.oracle.com\/ords\/certview\/sharebadge?id=7D7933597420C1E31DB4D9337723408CBB84B3207F0E79125C7DFFF32E5EAD5A}{\\faLink\\ Oracle Certified Professional: Java SE 21 Developer}",
                 "period": "August 2025",
                 "isCompact": true
             },
             {
-                "company": "Google Developer Student Club Hacks -  Winner of ‘The Best Google Hack’ award",
+                "company": "Google Developer Student Club Hacks -  Winner of 'The Best Google Hack' award",
                 "period": "May 2024",
                 "isCompact": true
             },
