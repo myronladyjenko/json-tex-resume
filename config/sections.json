@@ -55,21 +55,30 @@
                 "position": "Software Engineering Intern",
                 "location": "Waterloo, ON",
                  "resumeItems": [
+                    "Built cheque rendering flows using \\textbf{Java} and \\textbf{Apache FOP}, generating high-quality images for financial institutions",
+                    "Increased service throughput and reduced latency by implementing a \\textbf{thread-pool concurrency model}",
+                    "Developed a Spring Boot JWT authorization service using Spring Security and Kubernetes secrets, securing Google Cloud Storage access and integrating with \\textbf{NGINX} for token validation in a report retrieval workflow"
+                ]
+            },    
+            {
+                "company": "NCR Voyix",
+                "period": "Sep 2023 - Dec 2023",
+                "position": "Software Developer Intern",
+                "location": "Waterloo, ON",
+                 "resumeItems": [
                     "Secured \\textbf{70%} market share with \\textbf{600+} financial institution branches and \\textbf{13000} ITMs globally by delivering essential reporting capabilities for terminal activity and balances",
                     "Designed and deployed high-performance containerized Spring Boot microservices using \\textbf{Java 17} on GCP, architected using the \\textbf{Strategy pattern} and \\textbf{Plugin Architecture} to maximize system flexibility and extensibility",
                     "Adopted multithreaded architecture for backend services to reduce report generation and upload times by \\textbf{40%}",
-                    "Built a Spring Boot JWT authorization service using Spring Security and Kubernetes secrets, securing Google Cloud Storage access and integrating with NGINX for token validation in a report retrieval workflow",
                     "Enhanced \\textbf{UX} for \\textbf{1000+} bank tellers by enabling dynamic, customizable reporting through parameterized SQL queries"
                 ]
             },    
             {
                 "company": "NCR",
-                "period": "May 2023 - Dec 2023",
+                "period": "May 2023 - Aug 2023",
                 "position": "Backend Java Developer Intern",
                 "location": "Waterloo, ON",
                 "resumeItems": [
                     "Delivered software for teller cash recyclers for \\textbf{8+} major financial institutions",
-                    "Optimized bank teller UX by empowering clients to execute pivotal operations like secure money transfers and interbranch cash shipments through real-time data streaming with WebSockets, reducing latency by \\textbf{99.9%}",
                     "Developed backend transaction services empowering tellers to execute secure cash recycler operations, by implementing Spring Boot REST APIs alongside Node.js transaction flows and data management with Cassandra",
                     "Automated microservice deployments with Jenkins CI/CD, accelerating releases via Maven builds and Helm charts"
                 ]
@@ -118,8 +127,8 @@
                 "period": "Sep 2024 - Nov 2024",
                 "techstack": "Python, PyTorch, GPU, YOLOv11, Mask R-CNN",
                 "resumeItems": [
-                    "Set up and trained machine learning models \\textbf{YOLOv11} and \\textbf{Mask R-CNN} (Detectron2) on a 4.3k image climbing dataset for automated holds and routes detection",
-                    "Applied \\textbf{K-Means} and \\textbf{DBSCAN} clustering with \\textbf{Gaussian blur} preprocessing for color-based route classification"                
+                    "Set up and trained machine learning models \\textbf{YOLOv11} and \\textbf{Mask R-CNN} (Detectron2) on a 2.4k image climbing dataset for automated holds and routes detection",
+                    "Applied \\textbf{K-Means}, \\textbf{Mean-Shift}, \\textbf{GMM}, \\textbf{DBSCAN}, \\textbf{HDBSCAN} and \\textbf{Agglomerative} clustering with \\textbf{Gaussian blur} and \\textbf{CLAHE} preprocessing for color-based route classification"                
                 ]
             },
 
