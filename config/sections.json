@@ -13,9 +13,10 @@
             {
                 "company": "University of Guelph",
                 "period": "Sep 2025 - Present",
-                "position": "Teaching Assistant - Object Oriented Programming, Java",
+                "position": "Teaching Assistant - Object Oriented Programming (Java), Discrete Structures II",
                 "location": "Guelph, ON",
                 "resumeItems": [
+                    "Held in-peson labs teaching mathematical reasoning, counting techniques, generation algorithms, and graph theory",
                     "Conducted office hours to help students master \\textbf{OOP} concepts and clarify \\textbf{SOLID} principles"
                 ]
             },
@@ -68,7 +69,7 @@
                  "resumeItems": [
                     "Secured \\textbf{70%} market share with \\textbf{600+} financial institution branches and \\textbf{13000} ITMs globally by delivering essential reporting capabilities for terminal activity and balances",
                     "Designed and deployed high-performance containerized Spring Boot microservices using \\textbf{Java 17} on GCP, architected using the \\textbf{Strategy pattern} and \\textbf{Plugin Architecture} to maximize system flexibility and extensibility",
-                    "Adopted multithreaded architecture for backend services to reduce report generation and upload times by \\textbf{40%}",
+                    "Adopted multithreaded architecture for backend services to reduce report generation and upload times",
                     "Enhanced \\textbf{UX} for \\textbf{1000+} bank tellers by enabling dynamic, customizable reporting through parameterized SQL queries"
                 ]
             },    
@@ -110,11 +111,11 @@
         "subheadings": [
             {
                 "resumeItems": [
-                    "\\textbf{Languages}: Java, Python, SQL, C, C++, TypeScript, Go",
+                    "\\textbf{Languages}: Java, Python, SQL, C, C++, Go",
                     "\\textbf{Tools}: Docker, Kubernetes, GCP, AWS, Gardener, REST API, Kafka, Git, Maven, Jenkins, Google Cloud Pub/Sub, Redis, PostgreSQL, Cassandra, Oracle DB",
-                    "\\textbf{Frameworks}: Spring Boot, Hibernate, Warp, Flask, Node.js, Guice, Angular, PyTorch, YOLOv11, JUnit",
+                    "\\textbf{Frameworks}: Spring Boot, Hibernate, Warp, Flask, Node.js, Guice, Angular, YOLOv11, JUnit",
                     "\\textbf{Techniques}: SOLID Principles, Design Patterns, Distributed and Parallel Systems Architecture, Relational Database Design, Kubernetes Operator & Autoscaling (HPA, VPA) Development, Cloud-Native Monitoring, Agile",           
-                    "\\textbf{Interests}: Bouldering, Table Tennis, Volleyball, World Geography, Downhill Skiing, Biathlon"
+                    "\\textbf{Interests}: Bouldering, Table Tennis, Volleyball, World Geography, Downhill Skiing, Biathlon, Settlers of Catan"
                 ]
             }
         ]
@@ -184,13 +185,18 @@
                 "isCompact": true
             },
             {
-                "company": "D2L Scholarships in Computer Science - Highest GPA in Software Engineering",
+                "company": "Dr. Ted Swart Scholarship - Highest average across all required degree courses (5 terms)",
                 "period": "Sep 2024",
                 "isCompact": true
             },
             {
                 "company": "Guelph LeetCode Competition - 1st Place, 2nd Place",
                 "period": "Feb 2024, 2023",
+                "isCompact": true
+            },
+            {
+                "company": "D2L Scholarships in Computer Science - Highest GPA in Software Engineering",
+                "period": "Jan 2024",
                 "isCompact": true
             },
             {
@@ -201,6 +207,11 @@
             {
                 "company": "Runner-up for ‘Co-op Student of the Year’ award at University of Guelph",
                 "period": "Dec 2023",
+                "isCompact": true
+            },
+            {
+                "company": "Dean's Scholarship - Awarded for consecutive Dean’s Honours List and top GPA",
+                "period": "Nov 2023, 2022",
                 "isCompact": true
             },
             {
